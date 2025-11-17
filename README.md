@@ -39,9 +39,8 @@ git clone https://github.com/harikishan-45/Driver-Drowsiness-Detection.git
 cd Driver-Drowsiness-Detection
 
 2. Install dependencies
-pip install -r requirements.txt
-
-3. Download facial landmark model
+3. 
+4. Download facial landmark model
 
 
 ▶️ How to Run
@@ -51,7 +50,7 @@ Run the script:
 python drowsiness_detection.py
 
 
-🧩 How It Works (Short Explanation)
+🧩 How It Works
 
 Webcam captures the driver's face
 
